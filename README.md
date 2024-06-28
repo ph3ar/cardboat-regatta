@@ -1,4 +1,4 @@
-# Comprehensive Cardboard Boat Regatta Project Plan
+# Boat Regatta Project Plan
 
 ## Regatta Master Pirate Plan
 
