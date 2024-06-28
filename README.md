@@ -97,7 +97,7 @@ Ahoy, mateys! The Reston Museum is gearing up for the sixth Cardboard Boat Regat
 ### Materials
 
 - **Primary Materials**:
-  - Virgin cardboard (single ply)
+  - Virgin cardboard (3-ply ideal, 2-ply good, 1 ply - bonfire) ... use all 3? 
   - Cardboard carpet tubes (no "Sono-tubes")
   - Duct tape, masking tape, strapping paper tape, wood glue, contact cement
 - **Additional Items**:
