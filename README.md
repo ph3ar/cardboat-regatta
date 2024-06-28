@@ -67,10 +67,10 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
 - **Race Packet Pick-up**: Evening before the race
 - **Race Day**: Saturday, August 10, 2024
 
-### Team Structure
+### Team Structure (TBD)
 
 - **Captain**: Forge Pirate
-- **Chief Navigator**: Michael
+- **Navigator**: Michael?
 - **Compliance**: Jean
 - **Design Lead**: Sam Winkelstein
 - **Additional Team Members**:
