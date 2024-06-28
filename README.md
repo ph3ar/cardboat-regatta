@@ -4,14 +4,13 @@
 
 ### Table of Contents
 
-- [Comprehensive Cardboard Boat Regatta Project Plan](#comprehensive-cardboard-boat-regatta-project-plan)
+- [Boat Regatta Project Plan](#boat-regatta-project-plan)
   - [Regatta Master Pirate Plan](#regatta-master-pirate-plan)
     - [Table of Contents](#table-of-contents)
     - [Boat Regatta Overview](#boat-regatta-overview)
-    - [Cardboard Boat Regatta Project Plan](#cardboard-boat-regatta-project-plan)
     - [Event Overview](#event-overview)
     - [Key Dates](#key-dates)
-    - [Team Structure](#team-structure)
+    - [Team Structure (TBD)](#team-structure-tbd)
     - [Boat Design](#boat-design)
     - [Materials](#materials)
     - [Tasks and Responsibilities](#tasks-and-responsibilities)
@@ -21,14 +20,10 @@
       - [Special Projects](#special-projects)
     - [Day-of-Event Logistics](#day-of-event-logistics)
     - [Boat Building Tips](#boat-building-tips)
-    - [Testing](#testing)
     - [Rules and Compliance](#rules-and-compliance)
     - [Waivers and Safety](#waivers-and-safety)
     - [Budget and Sponsorship](#budget-and-sponsorship)
     - [Communication Plan](#communication-plan)
-    - [Risk Management](#risk-management)
-    - [Additional Notes](#additional-notes)
-    - [Official Resources](#official-resources)
     - [Next Steps](#next-steps)
   - [Additional Considerations](#additional-considerations)
     - [Contingency Planning](#contingency-planning)
@@ -47,11 +42,7 @@
 
 ### Boat Regatta Overview
 
-The Reston Museum is gearing up for the sixth Cardboard Boat Regatta, inviting teams to construct and race life-size boats made from cardboard and duct tape. This fun-filled event will be held at historic Lake Anne Plaza in Reston, VA, on August 10, 2024. Prizes will be awarded to the fastest boats and the most spectacularly sinking vessel.
-
-### Cardboard Boat Regatta Project Plan
-
-The project plan for the Cardboard Boat Regatta includes detailed timelines, team structure, boat design specifications, materials needed, tasks and responsibilities, tips for boat building, and guidelines for compliance with official rules.
+Ahoy, mateys! The Reston Museum is gearing up for the sixth Cardboard Boat Regatta. Teams will construct and race life-size boats made from cardboard and duct tape. The fun happens at historic Lake Anne Plaza in Reston, VA, on August 10, 2024. Prizes will be awarded for the fastest boats and the most spectacularly sinking vessel.
 
 ### Event Overview
 
@@ -59,18 +50,23 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
 - **Venue**: [Lake Anne Plaza](https://www.restonmuseum.com), Reston, VA
 - **Date**: Saturday, August 10, 2024
 - **Official Website**: Reston Museum
+- **Note**: Dry dock station proudly sponsored by Nova Labs! Arrr!
 
 ### Key Dates
 
 - **Next Meeting**: TBD (Events need to be updated by the captain)
-- **Sam's Design Completion**: Expected by July 5th
+- **Design Completion**: Expected by July 5th
 - **Race Packet Pick-up**: Evening before the race
 - **Race Day**: Saturday, August 10, 2024
 
 ### Team Structure (TBD)
 
 - **Captain**: Forge Pirate
-- **Navigator**: Michael?
+- **Navigator**:
+- **Exterior Design**:
+- **Safety**: 
+- **Dock-Support:**:
+- ?? 
 - **Compliance**: Jean
 - **Design Lead**: Sam Winkelstein
 - **Additional Team Members**:
@@ -81,23 +77,21 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
   - Jean (board)
   - Vince (board)
   - Others TBA
-- **Volunteer Requirements**: Need at least 15 core team members and 15 additional volunteers (ideal 30 total volunteers)
+- **Volunteers**: Need at least 15 core team members and 15 additional volunteers (30 total)
 
 ### Boat Design
 
 - **Lead**: Sam Winkelstein
 - **Features**:
   - 2 outriggers
-  - Designed for 3 adult people
+  - Designed for 3 adults
   - Nova Labs graphics on the side
   - Cardboard flag
   - Oars (made or store-bought)
-- **Size Restrictions**:
-  - Maximum 6 feet wide by 12 feet long
-  - No height limit
+- **Size Restrictions**: Max 6 feet wide by 12 feet long, no height limit
 - **Action Items**:
-  - Sam to share design files (3D files, sliced design with coordinates)
-  - Create "Legend" of the pirate boat (instruction manual)
+  - Sam to share design files
+  - Create the "Legend" (instruction manual)
   - Determine boat name
 
 ### Materials
@@ -208,16 +202,6 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
 - Make sure crew area is not enclosed for easy entry/exit
 - Use paper mache for decorative elements if desired
 
-### Testing
-
-- **Plan**: Secure a "watery thing" for testing before the event
-- **Tests**: 
-  - Water testing
-  - Roll test
-  - Rowing test
-  - Weight test
-  - Compliance check
-
 ### Rules and Compliance
 
 1. The entire boat must be built of cardboard.
@@ -234,7 +218,7 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
 12. Coast guard approved life jackets must be worn by all participants during the race.
 13. Each team is responsible for disposing of their boat after the race. A dumpster will be provided for disposal.
 14. There is no limit to the number of rowers; however, all rowers must fit inside the boat. Teams should nominate a captain to attend the Captain's Meeting. Teams are also allowed to have two "crew" members on the dock to assist with the race start/finish.
-15. HAVE FUN! This is a family-friendly event, meant to foster Reston pride and teamwork.
+15. HAVE FUN! This is a family-friendly event, meant to foster
 
 ### Waivers and Safety
 
@@ -261,36 +245,6 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
 - **Channel**: Set up a communication channel for the team (e.g., Slack, Discord)
 - **Meetings**: Schedule regular team meetings
 - **Updates**: Create a system for sharing updates and progress reports
-
-### Risk Management
-
-- **Risks**:
-  - Material shortages
-  - Weather issues (event is rain or shine)
-- **Mitigation**:
-  - Pre-order materials
-  - Set up tents for rain protection
-- **Contingency Plan**: Develop and assign team members to monitor and manage risks
-
-### Additional Notes
-
-- Only one boat is needed
-- Auxiliary boat available in Jean's backyard if needed
-- Each team member should bring their own oar
-- Files will be shared in the team channel when available (after July 5th)
-- Two "crew" members allowed on the dock to assist with race start/finish
-
-### Official Resources
-
-- Main Event Page: [Reston Museum](https://www.restonmuseum.org/events/2024-cardboard-boat-regatta#register)
-- Registration: [Register](https://www.restonmuseum.org/events/2024-cardboard-boat-regatta#register)
-- Rules: [Rules PDF](https://static1.squarespace.com/static/661055da8d7c8a342aa4e464/t/6647989d3f9abd4bc607fad3/1715968157857/Lake+Anne+Cardboard+Boat+Regatta+Rules.pdf)
-- Building Tips: [How to Build a Cardboard Boat PDF](https://static1.squarespace.com/static/661055da8d7c8a342aa4e464/t/664798b44aa47916c73bc6e3/1715968180237/How+to+Build+a+Cardboard+Boat.pdf)
-- Sponsorship Information: [Sponsorship Packet PDF](https://static1.squarespace.com/static/661055da8d7c8a342aa4e464/t/664799a3d71807327ab94709/1715968420443/2024+Lake+Anne+Cardboard+Boat+Regatta+Sponsorship+packet+(2).pdf)
-- Waiver: [Waiver Link](https://www.restonmuseum.org/events/2024-cardboard-boat-regatta#register)
-- Questions about rules and compliance: info@restonmuseum.org
-- Donate to Reston Museum: [Donation Page](https://www.restonmuseum.org/events/2024-cardboard-boat-regatta)
-- Donate to Nova Labs: donate@nova-labs.org
 
 ### Next Steps
 
@@ -377,6 +331,7 @@ The project plan for the Cardboard Boat Regatta includes detailed timelines, tea
                                  |
             -------------------------------------------
             |                  |                     |
-     Navigator (Michael)  Compliance (Jean)  Design Lead (Sam Winkelstein)
+     Navigator   Compliance (Jean)  Design Lead (Sam Winkelstein)
             |
  Additional Team Members: Aveana, Amanda, Patrick, Kelly, Jean, Vince, Others TBA
+
