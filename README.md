@@ -2,7 +2,7 @@
 
 ## Regatta Master Pirate Plan
 
-https://github.com/mbarbine/cardboat-regatta/blob/main/Project_Checklist.md
+https://github.com/ph3ar/cardboat-regatta/blob/main/Project_Checklist.md
 
 ### Table of Contents
 
